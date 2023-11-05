@@ -36,8 +36,8 @@ const Contact = () => {
         <article className="contact__option">
           <RiWhatsappFill className='contact__icon'/>
           <h4>WhatsApp</h4>
-          <h5>+91 8436168072</h5>
-          <a href="https://wa.me/+918436168072" target='_blank'>Send a message</a>
+          <h5>+91 9700000000</h5>
+          <a href="https://wa.me/+919700000000" target='_blank'>Send a message</a>
         </article>
       </div>
         <form ref={form} onSubmit={sendEmail}>
